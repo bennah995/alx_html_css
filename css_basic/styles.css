@@ -12,12 +12,10 @@ main{
 
 section{
   flex: 2;
+  overflow-y: auto;
 }
 
 aside{
   flex: 1;
-}
-
-footer{
-  background-color: red;
+  overflow-y: auto;
 }
